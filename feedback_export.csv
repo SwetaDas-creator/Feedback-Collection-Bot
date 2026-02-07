@@ -1,0 +1,17 @@
+ID,NPS,CSAT,CES,Comment,Sentiment,Is_Fraud
+1,9,5,,Fast delivery and great support,Positive,0
+2,10,5,,Excellent experience and very fast service,Positive,0
+3,10,5,,ok,Positive,1
+4,8,4,3,Nice,Positive,1
+5,7,4,3,Service was okay but nothing special,Positive,0
+6,8,4,4,Delivery time was acceptable,Neutral,0
+7,3,,2,Very slow and confusing process,Negative,0
+8,3,,2,Very slow and confusing process,Negative,0
+9,2,,1,Bad experience and poor customer service,Negative,0
+10,0,,1,bad,Negative,1
+11,4,,3,Checkout failed multiple times,Negative,0
+12,9,5,,Smooth ordering and quick delivery,Positive,0
+13,2,,4,Refund process took too long,Neutral,0
+14,6,3,3,The product works fine but the delivery was delayed,Positive,0
+15,5,3,3,test,Neutral,1
+16,10,5,,Amazing quality and excellent customer support,Positive,0
