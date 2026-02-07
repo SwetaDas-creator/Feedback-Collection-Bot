@@ -4,8 +4,6 @@ Conversational survey chatbot for collecting customer insights using NPS, CSAT, 
 A backend-driven feedback analytics system built using FastAPI and Python.
 The system collects customer feedback, performs sentiment analysis, calculates NPS and CSAT, detects fraud or spam responses, identifies trends, and supports CSV export for reporting.
 
-This project is suitable for college projects, hackathons, and backend system demonstrations.
-
 **Features**
 
 Feedback Collection
